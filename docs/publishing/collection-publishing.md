@@ -14,7 +14,7 @@ Only creators and administrators can publish content.
 
 ## Why publish spaces (variants) in a collection?
 
-When you set the [space visibility](space-publishing.md) of a space to **in collection** and publish the collection, you can wrap a number of spaces in a single published interface. We call this **publishing variants**.
+When we set the [space visibility](space-publishing.md) of a space to **in collection** and publish the collection, you can wrap a number of spaces in a single published interface. We call this **publishing variants**.
 
 When you publish a collection of variants, any child space that's published inside the collection will be quickly accessible through a dropdown in the sidebar of the published content, allowing readers to switch between variants at any time.
 
@@ -24,8 +24,8 @@ Variants are useful if you need to offer a grouped experience for spaces, such a
 
 Here's some examples of how GitBook users have published variants in collections:
 
-* [Pancake Swap](https://docs.pancakeswap.finance/) use variants to publish their documentation in different languages
-* [Forest Admin](https://docs.forestadmin.com/documentation/) use variants to publish different versions of their documentation in one place
+- [Pancake Swap](https://docs.pancakeswap.finance/) use variants to publish their documentation in different languages
+- [Forest Admin](https://docs.forestadmin.com/documentation/) use variants to publish different versions of their documentation in one place
 
 ## Spaces inside a published collection
 
